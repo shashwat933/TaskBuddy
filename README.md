@@ -1,3 +1,44 @@
+# TaskBuddy
+
+TaskBuddy is a simple todo app built with HTML, Tailwind CSS, JavaScript, and React.js. It allows users to add new tasks, delete tasks, and search for specific tasks.
+
+## Features
+
+- Add new tasks: Users can enter task details and add them to their task list.
+- Delete tasks: Users can remove tasks from the task list.
+- Search tasks: Users can search for specific tasks based on their title or description.
+
+## Technologies Used
+
+- HTML: Used for the structure of the app.
+- Tailwind CSS: Used for the app's styling and layout.
+- JavaScript: Used for handling the logic and interactivity of the app.
+- React.js: Used as the JavaScript library for building the user interface.
+
+## Getting Started
+
+To get started with TaskBuddy, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/taskbuddy.git`
+2. Navigate to the project directory: `cd taskbuddy`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
+
+## Usage
+
+Once the app is running in your browser, you can perform the following actions:
+
+- **Add a task**: Enter the task title and description in the provided input fields and click the "Add Task" button.
+- **Delete a task**: Click the delete button (usually represented by a trash can icon) next to the task you want to remove.
+- **Search tasks**: Enter a search term in the search input field to filter the tasks based on the matching title or description.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
