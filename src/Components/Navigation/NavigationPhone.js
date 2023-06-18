@@ -17,7 +17,7 @@ const NavigationPhone = (props) => {
         <nav className=' transition duration-1000 ease-in-out flex bg-black h-16 justify-center items-center' >
                 <ul className='flex items-center  justify-between w-full text-white p-8'>
                     <li onClick={buttonHandelr}><img className='h-12 cursor-pointer' src={todoImage} alt="" /></li>
-                    <li className='grow text-center text-2xl'>TODO</li>
+                    <li className='grow text-center text-2xl'>TaskBuddy</li>
                 </ul>
             </nav>
             

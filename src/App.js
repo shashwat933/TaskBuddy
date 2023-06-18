@@ -27,10 +27,10 @@ function App() {
 
   return (
     <>
-      <SignIn />
-      {/* <MainNavigation findTask={findTask} />
+      {/* <SignIn /> */}
+      <MainNavigation findTask={findTask} />
       <AddTask onAdd={AddTaskHandler} />
-      <ShowTask searchedValue={searchValue} tasks={tasks} onDLT={deleteTask} /> */}
+      <ShowTask searchedValue={searchValue} tasks={tasks} onDLT={deleteTask} />
     </>
   );
 }

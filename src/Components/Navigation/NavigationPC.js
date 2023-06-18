@@ -12,7 +12,7 @@ const NavigationPC = (props) => {
             <nav className='flex bg-black h-16  items-center justify-between  xl:px-80  md:px-44 ' >
                 <ul className='flex justify-between items-center lg:w-64 w-44  text-white'>
                     <li><img className='h-12' src={todoImage} alt="" /></li>
-                    <li><a href="#">To-Do</a> </li>
+                    <li><a href="#">TaskBuddy</a> </li>
                     <li><a href="https://www.linkedin.com/in/shashwat-gupta-899558231/" target="_blank">About</a></li>
                 </ul>
                 <div className='relative'>
